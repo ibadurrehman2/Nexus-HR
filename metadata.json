@@ -1,0 +1,8 @@
+{
+  "name": "NexusHR - Enterprise HRMS",
+  "description": "A comprehensive, modular HR Management System featuring multi-tenant architecture, recruitment ATS, payroll, talent management, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
